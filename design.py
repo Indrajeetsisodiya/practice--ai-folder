@@ -1,0 +1,1 @@
+print("desgin should be minimalist type")
